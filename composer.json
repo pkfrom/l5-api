@@ -6,6 +6,7 @@
         "league/fractal": "0.*"
     },
     "license": "MIT",
+    "minimum-stability": "dev",
     "authors": [
         {
             "name": "Fromz Prajuktar",
