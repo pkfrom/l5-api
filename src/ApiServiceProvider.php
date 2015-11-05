@@ -3,7 +3,7 @@
 namespace Fromz\L5Api;
 
 use Illuminate\Support\ServiceProvider;
-use Fromz\Api\Generator\ApiMakeCommand;
+use Fromz\L5Api\Generator\ApiMakeCommand;
 
 class ApiServiceProvider extends ServiceProvider
 {
