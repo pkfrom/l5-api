@@ -6,7 +6,7 @@
  * Time: 8:43
  */
 
-namespace Fromz\Api\Skeleton;
+namespace Fromz\L5Api\Skeleton;
 
 
 use Illuminate\Http\Request;

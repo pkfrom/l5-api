@@ -6,7 +6,7 @@
  * Time: 8:30
  */
 
-namespace Fromz\Api\Generator;
+namespace Fromz\L5Api\Generator;
 
 use Illuminate\Console\AppNamespaceDetectorTrait;
 use Illuminate\Console\Command;

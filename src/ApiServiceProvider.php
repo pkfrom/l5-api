@@ -1,6 +1,6 @@
 <?php
 
-namespace Fromz\Api;
+namespace Fromz\L5Api;
 
 use Illuminate\Support\ServiceProvider;
 use Fromz\Api\Generator\ApiMakeCommand;

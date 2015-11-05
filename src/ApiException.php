@@ -1,6 +1,6 @@
 <?php
 
-namespace Fromz\Api;
+namespace Fromz\L5Api;
 
 class ApiException extends \Exception {
 
