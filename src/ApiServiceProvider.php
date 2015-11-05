@@ -1,16 +1,11 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: pkfrom
- * Date: 5/11/2558
- * Time: 8:28
- */
 
 namespace Fromz\Api;
 
+use Illuminate\Support\ServiceProvider;
 use Fromz\Api\Generator\ApiMakeCommand;
 
-class ApiServiceProvider extends \Illuminate\Support\ServiceProvider
+class ApiServiceProvider extends ServiceProvider
 {
 
     public function register()
