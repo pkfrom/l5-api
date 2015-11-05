@@ -10,7 +10,7 @@ Add this in composer.json
 ```
     "require": {
     ...
-        "fromz/l5api": "dev-master"
+        "fromz/l5-api": "dev-master"
     },
     "repositories": [
         {
