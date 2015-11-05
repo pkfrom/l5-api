@@ -1,5 +1,5 @@
 {
-    "name": "fromz/l5-api",
+    "name": "fromz/l5api",
     "description": "Building REST APIs generators.",
     "require": {
         "illuminate/support": "5.*",
